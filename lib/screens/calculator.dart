@@ -9,7 +9,7 @@ class Calculator extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Column(children: <Widget>[
-        Display('123.45'),
+        Display('4332.68'),
         Keyboard(),
       ],)
     );
